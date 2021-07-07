@@ -13,7 +13,7 @@ h1{
     font-size: 50px;
     margin-top:10px;
 }
-section{
+.flexible-container{
     display: flex;
 }
 
@@ -51,4 +51,31 @@ p{
 .img{
     width:70%;
     height:400px;
+}
+.headline{
+    text-align: center;
+    color:coral;
+}
+
+.one-third{
+    width:28%;
+    margin-left:2%;
+    margin-right: 2%;
+    box-shadow: 5px 5px 10px black;
+    padding-left:10px;
+    border-radius: 7px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.one-third img{
+    border-radius: 7px;
+    text-align:center;
+}
+
+.footer{
+    text-align:center;
+    background-color:black;
+    color:white;
+    padding:10px 0px;
+
 }
