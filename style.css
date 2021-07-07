@@ -41,3 +41,14 @@ p{
 .top-portion{
     background-image: url(images/Frame\ 58.jpg);
 }
+.about-us{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.about{
+    margin-top:100px;
+}
+.img{
+    width:70%;
+    height:400px;
+}
